@@ -80,7 +80,7 @@ const map = new maptalks.Map('map-main', {
     // center: [-0.113049, 51.498568],
     // center: [-73.97332, 40.76462],
     //center: [-74.0130345, 40.70635160000003],
-    center: [-7.7722716, 110.3754073],
+    center: [110.3754073, -7.7722716],
     zoom: 16,
     baseLayer: mainLayer
 });
