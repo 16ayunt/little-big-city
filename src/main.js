@@ -25,8 +25,8 @@ const mvtCache = LRU(50);
 
 const maptalks = require('maptalks');
 
-const DEFAULT_LNG = -74.0130345;
-const DEFAULT_LAT = 40.7063516;
+const DEFAULT_LNG = 110.378143; 
+const DEFAULT_LAT = -7.769655;
 
 const DEFAULT_CONFIG = {
     radius: 60,

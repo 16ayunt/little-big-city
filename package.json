@@ -21,6 +21,7 @@
     "quickhull3d": "^2.0.3"
   },
   "devDependencies": {
+    "webpack": "^4.16.5",
     "webpack-cli": "^3.1.0",
     "webpack-command": "^0.4.1"
   }
